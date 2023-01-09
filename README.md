@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tamas Marki. I am a ***Political Scientist***, ***Humanitarian***, and a ***Web Developer***.
+I am a ***Political Scientist***, ***Humanitarian***, and a ***Web Developer***.
 
 Currently, I work as a Delegate of the Danish Red Cross in Nepal. I manage a project funded by the European Commission. 
 
